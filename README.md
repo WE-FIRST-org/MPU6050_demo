@@ -1,8 +1,8 @@
 
 # Installation step
-    1. If you haven't already, download Ardunio IDE and install drivers if you are on windows from silicon labs
+    If you haven't already, download Ardunio IDE and install drivers if you are on windows from silicon labs
 
-    2. Download the repository as a whole, 
+    Download the repository as a whole, 
     and put it inside Documents/Ardunio, please include the folder that comes with the download, it is important.
 
 
