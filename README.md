@@ -1,3 +1,5 @@
+# [Follow this tutorial if you are confused](https://randomnerdtutorials.com/esp32-mpu-6050-accelerometer-gyroscope-arduino/)
+
 
 # Installation step
     If you haven't already, download Ardunio IDE and install drivers if you are on windows from silicon labs
@@ -9,7 +11,7 @@
 
 
 
-## Troubleshoot
+# Troubleshoot
 
 - I'm getting error during compiling
 
